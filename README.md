@@ -1,2 +1,2 @@
 # EntornosDesarrollo
-Materiales utilizados en las clases correspondientes a entornos de desarrollo del ciclo de desarrollo de aplicaciones multiplataforma.
+Materiales utilizados en las clases correspondientes al módulo Entornos de Desarrollo del ciclo de Desarrollo de Aplicaciones Multiplataforma.
